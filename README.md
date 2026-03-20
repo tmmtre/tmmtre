@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tmmtre
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Spring
 - 📫 How to reach me trevisioltommaso1@gmail.com
 
 <!---
