@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tmmtre
-- 👀 I’m interested in programming
+- 👋 Hi, I’m Tommaso Trevisiol
+- 👀 I’m interested in development and security
 - 🌱 I’m currently learning Spring
 - 📫 How to reach me trevisioltommaso1@gmail.com
 
